@@ -10,7 +10,6 @@ This repository aims to provide a centralized and organized repository of resour
 
 - `/tutorials`: Hands-on tutorials and code examples.
 - `/books`: Recommended books for learning data analytics.
-- `/courses`: Online courses for different skill levels.
 - `/tools`: Useful tools and software for data analytics.
 - `/articles`: Articles and blog posts covering relevant topics.
 
